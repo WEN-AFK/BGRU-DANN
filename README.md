@@ -12,3 +12,6 @@ The dataset was up for anyone to download for almost six years, which leads me t
 
 Patrick Nectoux, Rafael Gouriveau, Kamal Medjaher, Emmanuel Ramasso, Brigitte Morello, Nourredine Zerhouni, Christophe Varnier. *PRONOSTIA: An Experimental Platform for Bearings Accelarated Life Test.* IEEE International Conference on Prognostics and Health Management, Denver, CO, USA, 2012.
 
+## Result
+
+The result of BGRU-DANN in the file result_data

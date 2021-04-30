@@ -15,3 +15,9 @@ Patrick Nectoux, Rafael Gouriveau, Kamal Medjaher, Emmanuel Ramasso, Brigitte Mo
 ## Result
 
 The result of BGRU-DANN in the file result_data
+
+## Train model
+The train model contains the training model for Bearing 3
+
+## Test model
+The test model contains the testing model for Bearing 3
